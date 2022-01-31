@@ -1,0 +1,5 @@
+Package: sss_demo
+Type: Package
+Title: simple sample size calculator demo
+Version: 3.1.4.1
+RoxygenNote: 7.1.2
